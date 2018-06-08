@@ -10,10 +10,10 @@
     </feature>
     <name>DNQuran</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Dawahnigeria Quran Service Mobile
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+        Dn tech Department
     </author>
     <content src="index.html" />
     <access origin="*" />
